@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.508ee5cf.css","mappings":"AAAA,4CAEI,iBAAkB,CADlB,eAEJ","sources":["style.css"],"sourcesContent":[".form-control:focus, .form-check-input:focus{\n    box-shadow: none;\n    border-color: grey;\n}"],"names":[],"sourceRoot":""}
