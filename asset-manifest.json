@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/text-uitility/static/css/main.508ee5cf.css",
-    "main.js": "/text-uitility/static/js/main.f0f2a475.js",
+    "main.js": "/text-uitility/static/js/main.3a0d416b.js",
     "index.html": "/text-uitility/index.html",
     "main.508ee5cf.css.map": "/text-uitility/static/css/main.508ee5cf.css.map",
-    "main.f0f2a475.js.map": "/text-uitility/static/js/main.f0f2a475.js.map"
+    "main.3a0d416b.js.map": "/text-uitility/static/js/main.3a0d416b.js.map"
   },
   "entrypoints": [
     "static/css/main.508ee5cf.css",
-    "static/js/main.f0f2a475.js"
+    "static/js/main.3a0d416b.js"
   ]
 }
