@@ -60,7 +60,7 @@ const TextFrom = (props) =>{
             </div>
             <div className={`container mt-3 text-${props.mode === 'dark' ? 'light' : 'dark'}`}>
                 <p className='m-0'>{`Words ${text.length == 0 ? newText.split(' ').length-1 : newText.split(' ').length} and characters ${newText.length}`}</p>
-                <p>{`Reading Time ${text.split(' ').length*0.008.toFixed(2)} minutes`}</p>
+                <p>{`Reading Time ${newText.split(' ').length*0.008.toFixed(2)} minutes`}</p>
             </div>
         </>
     );
